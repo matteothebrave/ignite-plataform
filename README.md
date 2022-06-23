@@ -9,6 +9,8 @@
  <hr> 
  To run the project  <br>
  $ npm install <br>
+ $ npm install -D tailwindcss postcss autoprefixer vite <br>
+ $ npm install @apollo/client graphql
  $ npm run dev
  
  
