@@ -7,6 +7,6 @@
 <strong> <p> (Thanks to all Rocket Seat team)
  
  <hr> 
- To run the project 
- $ npm install
+ To run the project  <br>
+ $ npm install <br>
  $ npm run dev
