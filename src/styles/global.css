@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-gray-100;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+
+/* CMS = CONTENT MANAGEMENT SYSTEM 
+HEADLESS CMS = PAINEL DE ADMIN (dados fornecidos através de uma API REST ou GRAPHQL -> 
+REACT CONSOME A API 
+*/
+
+/* QUERY = buscar dados 
+   MUTATION = criar, alterar ou deletar dados */
