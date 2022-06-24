@@ -11,8 +11,8 @@
  $ npm install <br> 
  $ npm i @vime/core @vime/react --force <br>
  $ npm install -D tailwindcss postcss autoprefixer vite <br>
- $ npm install @apollo/client graphql
- $ npm install react-router-dom
+ $ npm install @apollo/client graphql <br>
+ $ npm install react-router-dom <br>
  $ npm run dev
  
  
