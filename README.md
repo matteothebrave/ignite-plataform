@@ -16,6 +16,5 @@
  $ npm run dev
  
  
- 
 <br> <br> 
- <i> <strong> Under Development
+ <i> <strong> UNFINISHED PROJECT, NEED TO FINISH MATTEO!!!
